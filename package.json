@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nosa10/git-test/issues"
   },
-  "homepage": "https://github.com/Nosa10/git-test#readme"
+  "homepage": "https://github.com/Nosa10/git-test#readme",
+  "dependencies": {
+    "confusion": "^0.1.1"
+  }
 }
